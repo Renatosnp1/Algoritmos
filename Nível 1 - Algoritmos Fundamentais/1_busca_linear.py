@@ -1,5 +1,8 @@
+# Busca Linear
 
-#  Complexidade: O(n)
+# Percorre uma lista de elementos um a um até encontrar o valor desejado.
+# Complexidade: O(n)
+# Exemplo: Buscar um número dentro de uma lista desordenada.
 
 lista_num_aleatorio = [816, 529, 715, 922, 691, 811, 242, 685, 537, 383, 797, 
                        981, 339, 415, 593, 351, 933, 720, 906, 135, 713, 582, 

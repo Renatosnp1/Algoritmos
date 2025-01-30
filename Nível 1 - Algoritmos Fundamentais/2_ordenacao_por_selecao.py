@@ -1,3 +1,8 @@
+# Ordenação por Seleção (Selection Sort)
+
+# Encontra o menor elemento e o move para o início da lista, repetindo esse processo até ordenar a lista.
+# Complexidade: O(n²)
+# Exemplo: Ordenar notas de alunos em ordem crescente.
 
 lista_numeros = [816, 529, 715, 922, 691, 811, 242, 685, 537, 383, 
                      797, 981, 339, 415, 593, 351, 933, 720, 906, 135, 

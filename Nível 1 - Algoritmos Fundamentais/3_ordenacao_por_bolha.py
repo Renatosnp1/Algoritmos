@@ -1,3 +1,8 @@
+# Ordenação por Bolha (Bubble Sort)
+
+# Compara e troca elementos adjacentes repetidamente até a lista estar ordenada.
+# Complexidade: O(n²)
+# Exemplo: Ordenar uma lista de preços de produtos.
 
 lista_numeros = [816, 529, 715, 922, 691, 811, 242, 685, 537, 383, 
                      797, 981, 339, 415, 593, 351, 933, 720, 906, 135, 
