@@ -103,10 +103,10 @@ Clone o repositório e explore os algoritmos implementados para aprendizado e pr
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Renatosnp1/Algoritmos.git
 
 # Acessar o diretório
-cd seu-repositorio
+cd Algoritmos
 ```
 
 Cada algoritmo terá sua implementação e explicação detalhada.
