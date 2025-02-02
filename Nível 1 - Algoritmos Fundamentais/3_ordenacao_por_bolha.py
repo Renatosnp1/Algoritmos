@@ -14,15 +14,19 @@ lista_numeros = [816, 529, 715, 922, 691, 811, 242, 685, 537, 383,
                      503, 400, 741, 447, 672, 322, 168, 432, 628, 340, 
                      813, 118, 902, 657, 722, 556, 403, 636, 624, 965]
 
+nn = 0
 n = len(lista_numeros)
 
 swapped = True
 while swapped:
     swapped = False
+
     for i in range(n - 1):
-        if lista_numeros[i] > lista_numeros[i + 1]:  # Se estiver fora de ordem, troca
+        nn += 1
+        if lista_numeros[i] > lista_numeros[i + 1]:  
             lista_numeros[i], lista_numeros[i + 1] = lista_numeros[i + 1], lista_numeros[i]
-            swapped = True  # Indica que houve troca
+            swapped = True  
 
 
 print(lista_numeros)
+print(nn)
